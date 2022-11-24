@@ -2192,11 +2192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Ntier\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\N-tier\\Ntier\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Ntier\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\N-tier\\Ntier\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Ntier\\Core\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\N-tier\\Ntier\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

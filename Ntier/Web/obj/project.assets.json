@@ -2234,11 +2234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Ntier\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\N-tier\\Ntier\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Ntier\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\N-tier\\Ntier\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Ntier\\Web\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\N-tier\\Ntier\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2255,8 +2255,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\Ntier\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Ntier\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\user\\Desktop\\N-tier\\Ntier\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\N-tier\\Ntier\\DataAccess\\DataAccess.csproj"
             }
           }
         }
