@@ -29,7 +29,6 @@ namespace Web.Services.Concrete
         }
 
 
-
         public async Task<CategoryUpdateVM> GetUpdateModelAsync(int id)
         {
             var category = await _categoryRepository.GetAsync(id);
@@ -42,7 +41,6 @@ namespace Web.Services.Concrete
             };
 
             return model;
-
         }
 
         //public async Task<CategoryUpdateVM> GetAsync(int id)
@@ -80,7 +78,6 @@ namespace Web.Services.Concrete
 
         public async Task<bool> UpdateAsync(CategoryUpdateVM model)
         {
-
             var isExist = await _categoryRepository.AnyAsync(c => c.Title.Trim().ToLower() == model.Title.Trim().ToLower());
             if (isExist)
             {
@@ -95,7 +92,6 @@ namespace Web.Services.Concrete
                 category.ModifiedAt = DateTime.Now;
 
                 await _categoryRepository.UpdateAsync(category);
-
             }
             return true;
         }
